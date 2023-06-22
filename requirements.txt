@@ -1,0 +1,4 @@
+pathlib
+beautifulSoup4
+logging
+shutil
