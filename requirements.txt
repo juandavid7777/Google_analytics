@@ -1,5 +1,5 @@
 streamlit
 pathlib
 beautifulSoup4
-# logging
+logging
 # shutil
